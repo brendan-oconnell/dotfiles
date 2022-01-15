@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = boconnell1@gmail.com
+	name = Brendan OConnell
